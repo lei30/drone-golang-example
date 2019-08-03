@@ -2,7 +2,6 @@
 
 Golang example with drone service
 
-[![Build Status](https://cloud.drone.io/api/badges/go-training/drone-golang-example/status.svg)](https://cloud.drone.io/go-training/drone-golang-example)
 
 ## Install Drone 1.0.x
 
